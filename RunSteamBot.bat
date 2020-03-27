@@ -1,0 +1,2 @@
+node SteamBot.js
+pause
