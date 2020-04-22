@@ -17,7 +17,7 @@ To reply to  messages you want send a message to your alt account using this for
 If i was wanting to send/reply my friend saying "How is your day?" i would do - __!reply, 76561198023414915, How is your day?__
 [__Here is a video example__](https://youtu.be/g28a6xGAiiM)
 ###### Note: this can be used to send messages at any time, meaning the person you are wanting to send a message to would not have had to messaged you before
- 
+  
  
  
 # Notes:
