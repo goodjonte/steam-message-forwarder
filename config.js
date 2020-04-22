@@ -3,7 +3,7 @@ module.exports = {
     bot: {
         
         username: '' ,                //account username of ALT ACCOUNT
-        password: '' ,                //account password of ALT ACCOUNT
+        password: '' ,                //account password of ALT ACCOUNT 
         shared_secret: '' ,           //shared secret of ALT ACCOUNT (from SDA) tutorial: https://youtu.be/JjdOJVSZ9Mo
         
         
