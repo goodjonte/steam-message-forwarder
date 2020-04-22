@@ -45,9 +45,9 @@ function run(logOnOptions, config, client){
 			var account = reply[1]; 
 			var new_message = ""
 			for (i = 2; i < reply.length; i++)
-				var word = reply[i] + " ";
+				var word = reply[i] + " ";
 				var new_message = new_message + word;
-			if (command == "!reply"){
+			if (command == "!reply" || command == "!message" || command == "!msg" ){
 				client.chatMessage(account, new_message);
 				console.log("message sent!")
 			}
