@@ -1,0 +1,2 @@
+node SteamMessageForward.js
+pause

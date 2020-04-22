@@ -1,0 +1,29 @@
+{
+  "name": "steammessageforwarder",
+  "version": "1.0.0",
+  "description": "Forward steam messages from alt account to main account and be able to reply from main and more features",
+  "main": "SteamMessageForwarder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodjonte/steam-message-forwarder.git"
+  },
+  "keywords": [
+    "steam",
+    "steam",
+    "message",
+    "forward"
+  ],
+  "author": "goodjonte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodjonte/steam-message-forwarder/issues"
+  },
+  "homepage": "https://github.com/goodjonte/steam-message-forwarder#readme",
+  "dependencies": {
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.14.0"
+  }
+}
